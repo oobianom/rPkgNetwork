@@ -4,6 +4,6 @@
 ### Built with: HTML5, JavaScript, PHP, CSS, MySQLi
 ### Incorporates: Facebook likes, Disgus, phpMiniAdmin, Medoo, CRAN, Bootstrap, JQuery, Tailwind
 
-_Make this page your browser home page and you'd miss a bit on news regarding R packages_
+_Make this page your browser home page and you'd never miss a bit on news regarding R packages_
 
 ![](https://rnetwork.obi.obianom.com/assets/rnetwork.png)
