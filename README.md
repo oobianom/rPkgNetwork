@@ -2,6 +2,6 @@
 ## Official website: https://rnetwork.obi.obianom.com
 ### Deployed: August 28, 2022
 ### Built with: HTML5, JavaScript, PHP, CSS, MySQLi
-### Incorporates: Facebook likes, Disgus, phpMiniAdmin, Medoo, CRAN, Bootstrap, JQery, Tailwind
+### Incorporates: Facebook likes, Disgus, phpMiniAdmin, Medoo, CRAN, Bootstrap, JQuery, Tailwind
 
 ![](https://rnetwork.obi.obianom.com/assets/rnetwork.png)
