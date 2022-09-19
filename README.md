@@ -1,4 +1,4 @@
-# R Package Search Network: A platform to search through over 18,602 R packages, compare across various packages based on name or keywords in their descriptions.<img src="/assets/logo2.png" width="100" align="right">
+# R Package Search Network: A platform to search through over 18,602 R packages, compare across various packages based on name or keywords in their descriptions.<img src="https://rpkg.net/assets/logo3.webp" width="100" align="right">
 ## Official website: https://rpkg.net
 ## Official website alternate link: https://rnetwork.obi.obianom.com
 ### Deployed: August 28, 2022
