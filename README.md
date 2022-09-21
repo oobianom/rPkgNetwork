@@ -8,6 +8,8 @@
 ### Built with: HTML5, JavaScript, PHP, CSS, MySQLi
 ### Incorporates: Facebook likes, Disgus, phpMiniAdmin, Medoo, CRAN, Bootstrap, JQuery, Tailwind
 
+### Badges for your R package: https://rpkg.net/pub-age/{package}/{color}
+
 ## Like it? Give us a thumbs up. Star this project!
 
 _Make this page your browser home page and you'd never miss a bit on news regarding R packages_
