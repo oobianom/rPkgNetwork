@@ -16,4 +16,6 @@ _Make this page your browser home page and you'd never miss a bit on news regard
 
 ![](https://rnetwork.obi.obianom.com/assets/rnetwork.png)
 
+![](https://depends.rpkg.net/assets/rpackagedependency2.gif)
+
 ![](https://cards.rpkg.net/assets/function-card.png)
