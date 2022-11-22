@@ -16,6 +16,11 @@ _Make this page your browser home page and you'd never miss a bit on news regard
 
 ![](https://rnetwork.obi.obianom.com/assets/rnetwork.png)
 
+### Package dependencies
 ![](https://depends.rpkg.net/assets/rpackagedependency2.gif)
 
+### Function cards
 ![](https://cards.rpkg.net/assets/function-card.png)
+
+### R package scholar
+![](https://scholar.rpkg.net/assets/SCHOLAR-RPKG.png)
