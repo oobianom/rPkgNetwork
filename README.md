@@ -1,6 +1,8 @@
 # R Package Search Network: A platform to search through over 18K R packages, compare across various packages based on name or keywords in their descriptions.
 
-![](https://rpkg.net/assets/logo2.png) ![](https://rpkg.net/assets/logo1.png) ![](https://rpkg.net/assets/logo3.png)
+![](https://rpkg.net/assets/logo2.png) 
+![](https://rpkg.net/assets/logo1.png) 
+![](https://rpkg.net/assets/logo3.png)
 
 ## Official website: https://rpkg.net
 ## Official website alternate link: https://rnetwork.obi.obianom.com
