@@ -1,4 +1,4 @@
-# R Package Search Network: A platform to search through over 18K R packages, compare across various packages based on name or keywords in their descriptions.
+# A complete R package resource center: A platform to search through over 18K R packages, compare across various packages based on name or keywords in their descriptions, view package dependencies, and R scholar profiles.
 
 ![](https://rpkg.net/assets/logo2.png)  
 ![](https://rpkg.net/assets/logo3.webp)
