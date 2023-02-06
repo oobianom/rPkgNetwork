@@ -1,4 +1,4 @@
-# A complete R package resource center: A platform to search through over 18K R packages, compare across various packages based on name or keywords in their descriptions, view package dependencies, and R scholar profiles.
+# A complete R package resource center: A platform to search through over 18K R packages, compare across various packages based on name or keywords in their descriptions, view package dependencies, examples and R scholar profiles.
 
 ![](https://rpkg.net/assets/logo2.png)  
 ![](https://rpkg.net/assets/logo3.webp)
@@ -15,7 +15,7 @@
 
 _Make this page your browser home page and you'd never miss a bit on news regarding R packages_
 
-![](https://rnetwork.obi.obianom.com/assets/rnetwork-2.png)
+![](https://rnetwork.obi.obianom.com/assets/rnetwork.png)
 
 ### Package dependencies
 ![](https://depends.rpkg.net/assets/rpackagedependency2.gif)
