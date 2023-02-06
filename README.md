@@ -15,7 +15,7 @@
 
 _Make this page your browser home page and you'd never miss a bit on news regarding R packages_
 
-![](https://rnetwork.obi.obianom.com/assets/rnetwork.png)
+![](https://rnetwork.obi.obianom.com/assets/rnetwork-2.png)
 
 ### Package dependencies
 ![](https://depends.rpkg.net/assets/rpackagedependency2.gif)
