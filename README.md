@@ -25,3 +25,6 @@ _Make this page your browser home page and you'd never miss a bit on news regard
 
 ### R package scholar
 ![](https://scholar.rpkg.net/assets/SCHOLAR-RPKG.png)
+
+### Run R online
+![](https://rpkg.net/assets/projectr.png)
