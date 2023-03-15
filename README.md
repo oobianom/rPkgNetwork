@@ -28,3 +28,6 @@ _Make this page your browser home page and you'd never miss a bit on news regard
 
 ### Run R online
 ![](https://rpkg.net/assets/projectr2.png)
+
+### Equations builder
+![](https://equations.rpkg.net/images/rpkg-equation.png)
