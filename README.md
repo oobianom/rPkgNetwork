@@ -1,4 +1,4 @@
-# A complete R package resource center: RPKG.net is a platform to search through over 18K R packages, compare across various packages based on name or keywords in their descriptions, view package dependencies, examples, run R online and view R scholar profiles.
+# A complete R package resource center: RPKG.net is a platform to search through over 20K R packages, compare across various packages based on name or keywords in their descriptions, view package dependencies, examples, run R online and view R scholar profiles.
 
 ![](https://rpkg.net/assets/logo2.png)  
 ![](https://rpkg.net/assets/logo3.webp)
